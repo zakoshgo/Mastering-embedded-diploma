@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\0.courses\0.embedded diploma\My GitHub Repo\Mastering-embedded-diploma\Unit 2-C programming\lecture 3 assignments\Homework1\Homework1\Source.cpp(84,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Homework1.vcxproj -> D:\0.courses\0.embedded diploma\My GitHub Repo\Mastering-embedded-diploma\Unit 2-C programming\lecture 3 assignments\Homework1\Homework1\x64\Debug\Homework1.exe
